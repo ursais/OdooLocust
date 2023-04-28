@@ -31,4 +31,4 @@
 ##############################################################################
 
 from . import OdooLocustUser, OdooTaskSet
-from . import crm
+# from . import crm
